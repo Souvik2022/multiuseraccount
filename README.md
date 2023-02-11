@@ -1,12 +1,13 @@
 # multiuseraccount
 
-hello the user part is done
 
 the user part code is divided into different sections the controllers ,  the routes  and also the usermodel 
 
 i have connected it to mongo db compass the json files are properly getting stored 
 
-and also multer and bcrypt packages were also used to crypt and store the user data + images 
+and also multer and bcrypt packages were also used to crypt and store the user data + images also the testing images are also 
+
+stored in one of the folders
 
 unfortunately the node modules part is so large it cant be uploaded in github so i have uploaded the screenshot 
 
